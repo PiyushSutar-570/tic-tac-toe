@@ -93,7 +93,7 @@ const TicTacToe = () => {
       </div>
       <button className='mt-14 bg-[#1f3540] text-green-400 text-2xl px-14 py-5 rounded-full cursor-pointer border-2 border-white mb-5' onClick={handleReset}>Reset</button>
 
-      <div className='text-white text-2xl font-semibold relative bottom-0 mb-5'>Made By @Piyush-Sutar</div>
+      <div className='text-white text-2xl font-semibold'>Made By @Piyush-Sutar</div>
     </div>
   )
 }
