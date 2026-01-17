@@ -1,4 +1,4 @@
-# Tic Tac Toe (React.js)
+## Tic Tac Toe (React.js)
 
 A simple Tic Tac Toe game built with React to practice component state and game logic.
 
