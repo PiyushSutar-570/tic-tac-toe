@@ -12,6 +12,9 @@ A simple Tic Tac Toe game built with React to practice component state and game 
 • JavaScript  
 • CSS  
 
+##live-preview
+link : https://tic-tac-toe-l4ue.vercel.app/
+
 ## Installation
 ```bash
 git clone https://github.com/PiyushSutar-570/tic-tac-toe
